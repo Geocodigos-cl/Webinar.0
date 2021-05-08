@@ -6,11 +6,11 @@ Una de las opciones para realizar la instalacion, es seguir las intrucciones de 
 
 Otra opcion es seguir los videos explicativos de youtube presionando [aquí](https://www.youtube.com/watch?v=D9Bp11iZssc&t=3s)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D9Bp11iZssc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/D9Bp11iZssc/0.jpg)](http://www.youtube.com/watch?v=D9Bp11iZssc "Cómo Descargar e Instalar R y RStudio")
 
 o presiona [acá](https://www.youtube.com/watch?v=Nmu4WPdJBRo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nmu4WPdJBRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/Nmu4WPdJBRo/0.jpg)](http://www.youtube.com/watch?v=Nmu4WPdJBRo "DESCARGAR e instalar R y RStudio 2021 💻📊#02 [ CURSO R STUDIO ]")
 
 De todas formas, si tienes dudas sobre el proceso puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) y revisar más informacion sobre esto.
 
